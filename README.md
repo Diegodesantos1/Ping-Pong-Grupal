@@ -3,9 +3,7 @@
 
 <h3 align="center">Perfiles de GitHub de los autores de este proyecto:</h3>
 
-1.[Claudia](https://github.com/claudiaalozano)
-2.[Rubén](https://github.com/rnoguer22)
-3.[Diego](https://github.com/Diegodesantos1)
+[Claudia](https://github.com/claudiaalozano), [Rubén](https://github.com/rnoguer22)y [Diego](https://github.com/Diegodesantos1)
 
 El link del repositorio es este: [Repositorio](https://github.com/Diegodesantos1/Ping-Pong-Grupal)
 
