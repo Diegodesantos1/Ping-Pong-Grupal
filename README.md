@@ -1,4 +1,7 @@
 # Ping-Pong-Grupal
+<h1 align="center">Ping Pong</h1>
+
+<h3 align="center">Perfil de GitHub del autor de este proyecto:</h3>
 
 Este trabajo lo hemos hecho:
 [Claudia](https://github.com/claudiaalozano),
