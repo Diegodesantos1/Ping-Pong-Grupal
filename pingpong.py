@@ -175,18 +175,18 @@ def main():
 if __name__ == "__main__":
     main()
     # Puntuación de la pelota
-        self.puntuacion = 0
-        self.puntuacion_ia = 0
-        def rebotar(self):
-        if self.x <= -self.ancho:
-            self.reiniciar()
-            self.puntuacion_ia += 1
-        if self.x >= VENTANA_HORI:
-            self.reiniciar()
-            self.puntuacion += 1
+    self.puntuacion = 0
+    self.puntuacion_ia = 0
+    def rebotar(self):
+    if self.x <= -self.ancho:
+        self.reiniciar()
+        self.puntuacion_ia += 1
+    if self.x >= VENTANA_HORI:
+        self.reiniciar()
+        self.puntuacion += 1
 NEGRO = (0, 0, 0)  # Color del texto (RGB)
 # Inicialización de la fuente
-    fuente = pygame.font.Font(None, 60)
+fuente = pygame.font.Font(None, 60)
 texto = f"{pelota.puntuacion} : {pelota.puntuacion_ia}"
-        letrero = fuente.render(texto, False, NEGRO)
-        ventana.blit(letrero, (VENTANA_HORI / 2 - fuente.size(texto)[0] / 2, 50))
+letrero = fuente.render(texto, False, NEGRO)
+ventana.blit(letrero, (VENTANA_HORI / 2 - fuente.size(texto)[0] / 2, 50))
