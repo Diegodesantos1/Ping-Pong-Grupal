@@ -1,12 +1,11 @@
 # Ping-Pong-Grupal
 <h1 align="center">Ping Pong</h1>
 
-<h3 align="center">Perfil de GitHub del autor de este proyecto:</h3>
+<h3 align="center">Perfiles de GitHub de los autores de este proyecto:</h3>
 
-Este trabajo lo hemos hecho:
-[Claudia](https://github.com/claudiaalozano),
-[Rubén](https://github.com/rnoguer22) y 
-[Diego](https://github.com/Diegodesantos1)
+1.[Claudia](https://github.com/claudiaalozano)
+2.[Rubén](https://github.com/rnoguer22)
+3.[Diego](https://github.com/Diegodesantos1)
 
 El link del repositorio es este: [Repositorio](https://github.com/Diegodesantos1/Ping-Pong-Grupal)
 
